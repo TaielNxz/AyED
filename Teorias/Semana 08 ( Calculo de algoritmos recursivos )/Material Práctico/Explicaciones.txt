@@ -1,0 +1,13 @@
+Explicación de práctica - parte 1 - Sumatorias, peor escenario, cálculo de while
+https://www.youtube.com/watch?v=FedP4d6yOT0
+
+Explicación de práctica - parte 2 - Orden de ejecución
+https://www.youtube.com/watch?v=hvy2FbS70Kg
+
+
+Explicación de práctica - parte 3 - Tiempo de ejecución iterativo
+https://www.youtube.com/watch?v=0tnznEEK_p4
+
+
+Explicación de práctica - parte 4 - Recurrencia
+https://www.youtube.com/watch?v=h5Ur0RSj6WU
